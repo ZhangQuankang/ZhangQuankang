@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello everybody 👋
 
 <!--
 **ZhangQuankang/ZhangQuankang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+GOOD GOOD STUDY    :tw-1f61c::tw-1f61d:
+DAY DAY UP   :tw-1f60d: :tw-1f63b:
